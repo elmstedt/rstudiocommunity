@@ -4,6 +4,8 @@
 # This script should resolve issue posted at:
 # https://community.rstudio.com/t/function-problem/78158
 # by user: https://community.rstudio.com/u/muhammadinfo 
+# Changes to muhammadinfo code limited to only those needed
+# to make code run successfully and to improve readability.
 
 ############################################################
 ###                  REQUIRED PACKAGES                   ###
